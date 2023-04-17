@@ -1,0 +1,13 @@
+C:\Users\Jaoearn\Desktop\HackerrankChallenges30DaysOfCode\Day6\bin\Debug\netcoreapp3.1\Day6.exe
+C:\Users\Jaoearn\Desktop\HackerrankChallenges30DaysOfCode\Day6\bin\Debug\netcoreapp3.1\Day6.deps.json
+C:\Users\Jaoearn\Desktop\HackerrankChallenges30DaysOfCode\Day6\bin\Debug\netcoreapp3.1\Day6.runtimeconfig.json
+C:\Users\Jaoearn\Desktop\HackerrankChallenges30DaysOfCode\Day6\bin\Debug\netcoreapp3.1\Day6.runtimeconfig.dev.json
+C:\Users\Jaoearn\Desktop\HackerrankChallenges30DaysOfCode\Day6\bin\Debug\netcoreapp3.1\Day6.dll
+C:\Users\Jaoearn\Desktop\HackerrankChallenges30DaysOfCode\Day6\bin\Debug\netcoreapp3.1\Day6.pdb
+C:\Users\Jaoearn\Desktop\HackerrankChallenges30DaysOfCode\Day6\obj\Debug\netcoreapp3.1\Day6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaoearn\Desktop\HackerrankChallenges30DaysOfCode\Day6\obj\Debug\netcoreapp3.1\Day6.AssemblyInfoInputs.cache
+C:\Users\Jaoearn\Desktop\HackerrankChallenges30DaysOfCode\Day6\obj\Debug\netcoreapp3.1\Day6.AssemblyInfo.cs
+C:\Users\Jaoearn\Desktop\HackerrankChallenges30DaysOfCode\Day6\obj\Debug\netcoreapp3.1\Day6.csproj.CoreCompileInputs.cache
+C:\Users\Jaoearn\Desktop\HackerrankChallenges30DaysOfCode\Day6\obj\Debug\netcoreapp3.1\Day6.dll
+C:\Users\Jaoearn\Desktop\HackerrankChallenges30DaysOfCode\Day6\obj\Debug\netcoreapp3.1\Day6.pdb
+C:\Users\Jaoearn\Desktop\HackerrankChallenges30DaysOfCode\Day6\obj\Debug\netcoreapp3.1\Day6.genruntimeconfig.cache
