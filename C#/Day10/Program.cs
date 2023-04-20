@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Day10
 {
@@ -6,7 +7,9 @@ namespace Day10
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int n = Convert.ToInt32(Console.ReadLine().Trim());
+            string Result = Convert.ToString(n, 2).Split('0').Max();
+            Console.WriteLine(Result.Length);
         }
     }
 }
