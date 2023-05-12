@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Day23
 {
@@ -16,7 +17,17 @@ namespace Day23
     {
         static void levelOrder(Node root)
         {
-            //Write your code here
+            Queue<Node> nodeQueue = new Queue<Node>();
+            nodeQueue.Enqueue(root);
+            while (nodeQueue.Count > 0)
+            {
+                Node actual = nodeQueue.Dequeue();
+                Console.Write(actual.data + " ");
+                if (actual.left != null)
+                    nodeQueue.Enqueue(actual.left);
+                if (actual.right != null)
+                    nodeQueue.Enqueue(actual.right);
+            }
         }
 
         static Node insert(Node root, int data)
